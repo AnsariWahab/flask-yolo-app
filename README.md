@@ -1,4 +1,4 @@
-# Technical Assessment Documentation
+# Documentation
 
 ## **Objective**
 The objective of this assessment is to create a Flask-based object detection API using the YOLOv3 model. The application enables users to upload an image and receive the processed image with bounding boxes around detected objects. The entire application is dockerized to ensure portability and scalability.
